@@ -140,7 +140,7 @@
        
         <p class="section-label">The bride</p>
         <h3 class="couple person-name" id="bride-name">Jaya Sai Pragnya</h3>
-        <p class="family-note" id="bride-family">Daughter of Bheesetty Ome Siva Rama Krishanayya &amp; Lakshmi Lavanya<br>M.Tech., BITS Pilani · Software Engineer</p>
+        <p class="family-note" id="bride-family">M.Tech., BITS Pilani · Software Engineer<br>Daughter of Bheesetty Ome Siva Rama Krishanayya &amp; Lakshmi Lavanya</p>
         
         <div class="gold-rule"></div>
    
@@ -149,7 +149,7 @@
 
          <p class="section-label">The groom</p>
         <h3 class="couple person-name" id="groom-name">Ganesh</h3>
-        <p class="family-note" id="groom-family">Son of Rapeti Venkata Satyam Apparao (Srinu) &amp; Lakshmi<br>B.Tech., N.I.T. · Software Engineer</p>
+        <p class="family-note" id="groom-family">B.Tech., N.I.T. · Software Engineer<br>Son of Rapeti Venkata Satyam Apparao (Srinu) &amp; Lakshmi</p>
         <p class="invite-copy">With joy in our hearts, our families invite you to bless the couple and celebrate their wedding.</p>
         <div class="gold-rule"></div>
         <p class="section-label">The auspicious occasion</p>
@@ -246,8 +246,8 @@
       document.getElementById('welcome-bride').textContent=wedding.bride.name;
       document.getElementById('groom-name').textContent=wedding.groom.name;
       document.getElementById('bride-name').textContent=wedding.bride.name;
-      document.getElementById('groom-family').textContent=`Son of ${wedding.groom.parents}\n${wedding.groom.qualification} · ${wedding.groom.profession}`;
-      document.getElementById('bride-family').textContent=`Daughter of ${wedding.bride.parents}\n${wedding.bride.qualification} · ${wedding.bride.profession}`;
+      document.getElementById('groom-family').textContent=`${wedding.groom.qualification} · ${wedding.groom.profession}\n Son of ${wedding.groom.parents}`;
+      document.getElementById('bride-family').textContent=`${wedding.bride.qualification} · ${wedding.bride.profession}\n Daughter of ${wedding.bride.parents}`;
       document.getElementById('family-blessing').textContent=`With blessings of ${wedding.familyBlessings}\nHosted by ${wedding.hosts}`;
       document.getElementById('venue-name').textContent=wedding.venueName;
       document.getElementById('venue-address').textContent=wedding.venueAddress;

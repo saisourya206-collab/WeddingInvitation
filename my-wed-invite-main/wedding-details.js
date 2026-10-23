@@ -7,15 +7,15 @@ window.WEDDING_DETAILS = {
  
   bride: {
     name: 'Jaya Sai Pragnya',
-    parents: 'Bheesetty Ome Siva Rama Krishanayya & Lakshmi Lavanya',
     qualification: 'M.Tech., BITS Pilani',
-    profession: 'Software Engineer'
+    profession: 'Software Engineer',
+    parents: 'Bheesetty Ome Siva Rama Krishanayya & Lakshmi Lavanya'
   },
    groom: {
     name: 'Ganesh',
-    parents: 'Rapeti Venkata Satyam Apparao (Srinu) & Lakshmi',
     qualification: 'B.Tech., N.I.T.',
-    profession: 'Software Engineer'
+    profession: 'Software Engineer',
+    parents: 'Rapeti Venkata Satyam Apparao (Srinu) & Lakshmi'
   },
   familyBlessings: 'Sri Bheesetty NagaSuri (Late) & Smt. Lakshmi (Late)',
   hosts: 'Bheesetty Ome Siva Rama krishnaiah (Siva) & Smt. Lakshmi Lavanya',
