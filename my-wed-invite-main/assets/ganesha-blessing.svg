@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 680" role="img" aria-labelledby="title desc">
+  <title id="title">Lord Ganesha blessing the wedding invitation</title>
+  <desc id="desc">An original ornamental gold line illustration of Lord Ganesha seated on a lotus, with one hand raised in blessing.</desc>
+  <defs>
+    <radialGradient id="halo"><stop stop-color="#f4dfa9" stop-opacity=".36"/><stop offset=".68" stop-color="#d7ae63" stop-opacity=".1"/><stop offset="1" stop-color="#d7ae63" stop-opacity="0"/></radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff1c5"/><stop offset=".48" stop-color="#d5ad63"/><stop offset="1" stop-color="#a77837"/></linearGradient>
+    <linearGradient id="silk" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#b84b4f"/><stop offset="1" stop-color="#6b1e30"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <circle cx="280" cy="300" r="240" fill="url(#halo)"/>
+  <circle cx="280" cy="300" r="213" fill="none" stroke="#e4c77e" stroke-opacity=".42" stroke-width="1.5"/>
+  <circle cx="280" cy="300" r="198" fill="none" stroke="#e4c77e" stroke-opacity=".28" stroke-dasharray="2 8"/>
+  <g fill="none" stroke="url(#gold)" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-width="2" d="M280 78v25m-12-13h24M105 297h22m306 0h22M280 520v20M150 167l17 17m226 226 17 17m0-260-17 17M167 410l-17 17"/>
+    <path stroke-width="1.5" d="M280 105c18 37 18 76 0 111-18-35-18-74 0-111Zm0 365c-24-29-29-60-14-92 20 25 25 56 14 92Zm-166-173c39-12 73-4 101 24-34 14-67 6-101-24Zm332 0c-39-12-73-4-101 24 34 14 67 6 101-24ZM160 188c36 5 61 25 75 61-38-2-62-22-75-61Zm240 0c-36 5-61 25-75 61 38-2 62-22 75-61ZM160 412c36-5 61-25 75-61-38 2-62 22-75 61Zm240 0c-36-5-61-25-75-61 38 2 62 22 75 61Z"/>
+    <path stroke-width="3" d="M206 254c-44-24-84-6-89 40-4 39 20 74 66 86m171-126c44-24 84-6 89 40 4 39-20 74-66 86"/>
+    <path stroke-width="2" d="M202 273c-29-8-51 9-48 35m204-35c29-8 51 9 48 35"/>
+    <path stroke-width="3" d="M224 220c13-19 33-29 56-29s43 10 56 29l17 44c8 20 9 47 2 69-11 37-43 63-75 63s-64-26-75-63c-7-22-6-49 2-69l17-44Z" fill="url(#silk)"/>
+    <path stroke-width="2" d="M236 226c14 9 29 13 44 13s30-4 44-13M238 257c11 7 23 10 36 10m12 0c13 0 25-3 36-10"/>
+    <path stroke-width="3" d="M271 282c-2 18-5 29-17 43-11 14-17 28-11 40 5 12 21 13 32 3 10-9 7-22 1-29-4-5-10-7-14-5"/>
+    <path stroke-width="2.5" d="M243 282c-9 11-17 20-27 24m101-24c9 11 17 20 27 24"/>
+    <path stroke-width="2" d="M279 225v29m-8-14h16"/>
+    <path stroke-width="3" d="M211 354c-22-8-39-5-51 9-9 11-7 23 5 28 14 5 27-3 33-15m151-22c22-8 39-5 51 9 9 11 7 23-5 28-14 5-27-3-33-15"/>
+    <path stroke-width="3" d="M213 347c-37 12-55 39-56 76m190-76c37 12 55 39 56 76"/>
+    <path stroke-width="3" d="M203 403c-4 24 7 48 27 61 14 10 32 14 50 14s36-4 50-14c20-13 31-37 27-61" fill="url(#silk)"/>
+    <path stroke-width="2" d="M228 414c15 12 32 18 52 18s37-6 52-18m-91 24c12 10 25 15 39 15s27-5 39-15"/>
+    <path stroke-width="3" d="M224 380c-22 0-42 9-54 26-9 13-10 26-1 32 10 7 26 0 36-11m131-47c22 0 42 9 54 26 9 13 10 26 1 32-10 7-26 0-36-11"/>
+    <path stroke-width="3" fill="url(#silk)" d="M354 365c17-13 28-24 35-38l10-21c3-7 12-4 10 3l-4 12 12-39c2-7 11-5 10 2l-9 40 15-34c3-7 12-3 9 4l-13 36 11-20c4-6 12-1 8 6l-16 34c-8 17-23 27-42 30l-20 3Z"/>
+    <path stroke-width="1.6" d="M396 314l6 2m7-33 7 2m6 4 7 2m-17 37c8-2 15-2 22 0"/>
+    <path stroke-width="3" d="M229 471c-35 15-57 42-65 80h232c-8-38-30-65-65-80" fill="url(#silk)"/>
+    <path stroke-width="1.7" d="M187 533c29-16 58-23 93-23s64 7 93 23M174 548h212"/>
+    <path stroke-width="2" d="M280 460v91m-13-9h26m-44-60 31 33m46-33-31 33"/>
+    <path stroke-width="2.4" d="M280 565c-27-18-50-18-69 0 19 18 42 18 69 0Zm0 0c27-18 50-18 69 0-19 18-42 18-69 0Zm0 0c-16 18-17 38 0 57 17-19 16-39 0-57Z"/>
+    <path stroke-width="2" d="M160 610c73 13 167 13 240 0m-226 15c64 10 148 10 212 0"/>
+    <path stroke-width="1.4" d="M212 272c8-8 17-12 27-12m109 0c10 0 19 4 27 12"/>
+  </g>
+  <g fill="url(#gold)">
+    <circle cx="280" cy="188" r="5"/><circle cx="280" cy="253" r="3"/><circle cx="252" cy="286" r="2.5"/><circle cx="308" cy="286" r="2.5"/>
+    <circle cx="218" cy="378" r="4"/><circle cx="342" cy="378" r="4"/><circle cx="232" cy="465" r="3"/><circle cx="328" cy="465" r="3"/>
+    <circle cx="280" cy="565" r="4"/>
+  </g>
+</svg>
